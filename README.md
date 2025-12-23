@@ -39,3 +39,14 @@
 ![hw7](./files/hw6-2.png)
 ![hw7](./files/hw6-3.png)
 ![hw7](./files/hw6-4.png)
+
+---
+### Homework 8
+本次演講題目為: Ultra LightWeight Dehaze Methods for Robot Vision Using High Level Synthesis
+Presentation By: Dr. Chi-Chia,Sun
+
+今天的內容為使用高捷的程式語言合成電路
+並且比較了使用高階語言與電路描述語言的設計理念不同
+比較這兩者的效能
+以及如何透過FPGA進行影像處理
+與沒有高階資料結構與函數的解決辦法
